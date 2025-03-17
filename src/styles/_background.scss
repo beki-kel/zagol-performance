@@ -1,0 +1,15 @@
+.hero-back {
+  @apply bg-cover bg-center;
+  background-image: url("../images/travel.jpg");
+  background-repeat: no-repeat;
+}
+.flight-search-back {
+  @apply bg-cover bg-center;
+  background-image: url("../images/image\ copy\ 4.png");
+  background-repeat: no-repeat;
+}
+.mobile-hero {
+  @apply bg-cover bg-center;
+  background-image: url("../images/image\ copy\ 3.png");
+  background-repeat: no-repeat;
+}

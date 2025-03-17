@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "Flights": "የአየር ጉዞዎች",
+    "Hotels": "ሆቴሎች",
+    "Packages": "ጥቅሎች",
+    "Flight + Hotel": "የአየር ጉዞ + ሆቴል",
+    "Contact Us": "አግኙን",
+    "Home": "ዋና ገፅ"
+  },
+  "downloadAppButton": {
+    "name": "መተግበሪያ ለማውርድ"
+  },
+  "tabNames": {
+    "Flights": "የአየር ጉዞ",
+    "Cars": "የመኪና ጉዞ",
+    "Hotels": "ሆቴል"
+  },
+  "flightClass": {
+    "Economy": "ኢኮኖሚ",
+    "Business": "ቢዝነስ"
+  },
+  "dropOffLocation": {
+    "roundTrip": "ደርሶ መልስ",
+    "oneWay": "አንድ አቅጣጫ",
+    "both": "ሁለቱም"
+  },
+  "guests": {
+    "total": "{count} እንግዶች",
+    "adults": "አዋቂ",
+    "adultsDesc": "እድሜ 13+",
+    "children": "ልጆች",
+    "childrenDesc": "እድሜ 3–13",
+    "infants": "ሕፃናት",
+    "infantsDesc": "እድሜ 0–2"
+  },
+  "flightClassPlaceholder": "የበረራ አይነት ይምረጡ",
+  "locationInput": {
+    "defaultPlaceHolder": "ቦታ",
+    "defaultDesc": "የት ወዴት ለመሄድ አስበዋል?"
+  },
+  "flightLocationInput": {
+    "flyingFrom": "ከየት ?",
+    "flyingFromDesc": "መነሻዎት የት ነው?",
+    "flyingToDesc": "መዳረሻዎት የት ነው?",
+    "flyingTo": "ወዴት ?"
+  },
+  "flightCalaneder": {
+    "select dates range": "መነሻ ቀን - መመለሻ ቀን ",
+    "title": "ቀን ምርጫ",
+    "select date": "መነሻ ቀን"
+  },
+  "staySearchForm": {
+    "bedTypeDefault": "የአልጋ አይነት",
+    "starRatingDefault": "የኮከብ መጠን",
+    "roomTypes": {
+      "singleBed": "አንድ አልጋ",
+      "kingBed": "የንጉስ አልጋ",
+      "doubleBed": "ድርብ አልጋ",
+      "threeBeds": "3 አልጋዎች",
+      "fourPlusBeds": "4+ አልጋዎች"
+    }
+  },
+  "LocationInput": {
+    "placeHolder": "ቦታ",
+    "desc": "ቦታ ይምረጡ"
+  },
+  "stayDateInput": {
+    "Add dates": "ቀን ይምረጡ",
+    "Check in - Check out": "መግቢያ ቀን - መውጫ ቀን"
+  },
+  "GuestsInput": {
+    "guests": "እንግዶች",
+    "adultsDesc": "እድሜ 13+",
+    "adults": "አዋቂ",
+    "children": "ልጆች",
+    "childrenDesc": "እድሜ 3–13",
+    "infants": "ሕፃናት",
+    "infantsDesc": "እድሜ 0–2"
+  },
+  "carListing": {
+    "locationPlaceholder": "ከተማ ወይም ኤርፖርት ይምረጡ",
+    "locationDesc": " መነሻ ቦታ ?",
+    "locationDescDropOff": " መዳረሻ ቦታ ?"
+  },
+  "RentalCarSearchForm": {
+    "starRatingDefault": "የኮከብ መጠን",
+    "passengersAmountDefault": "የተጓዥ ብዛት"
+  },
+  "rentalCarCalendar": {
+    "title": "ቀን ምርጫ",
+    "pickupDropoff": "መነሻ ቀን"
+  }
+}

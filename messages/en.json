@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "Flights": "Flights",
+    "Hotels": "Hotels",
+    "Packages": "Packages",
+    "Flight + Hotel": "Flight + Hotel",
+    "Contact Us": "Contact Us",
+    "Home": "Home"
+  },
+  "downloadAppButton": {
+    "name": "Download App"
+  },
+  "tabNames": {
+    "Flights": "Flight",
+    "Cars": "Car",
+    "Hotels": "Hotel"
+  },
+  "flightClass": {
+    "Economy": "Economy",
+    "Business": "Business"
+  },
+  "dropOffLocation": {
+    "roundTrip": "Round-Trip",
+    "oneWay": "One-Way",
+    "both": "Both"
+  },
+  "guests": {
+    "total": "{count} Guests",
+    "adults": "Adults",
+    "adultsDesc": "Ages 13+",
+    "children": "Children",
+    "childrenDesc": "Ages 3–13",
+    "infants": "Infants",
+    "infantsDesc": "Ages 0–2"
+  },
+  "flightClassPlaceholder": "Choose Flight Class",
+  "locationInput": {
+    "defaultPlaceHolder": "Location",
+    "defaultDesc": "Where are you going?"
+  },
+  "flightLocationInput": {
+    "flyingFrom": "Flying From",
+    "flyingFromDesc": "Where do you want to fly from?",
+    "flyingToDesc": "Where do you want to fly to?",
+    "flyingTo": "Flying To"
+  },
+  "flightCalaneder": {
+    "select dates range": "departure - return ",
+    "title": "add dates",
+    "select date": "departure"
+  },
+  "staySearchForm": {
+    "bedTypeDefault": "Bed Type",
+    "starRatingDefault": "Star Rating",
+    "roomTypes": {
+      "singleBed": "singel Bed",
+      "kingBed": "Kings Bed",
+      "doubleBed": "Double Bed",
+      "threeBeds": "3 Beds",
+      "fourPlusBeds": "4+ Beds"
+    }
+  },
+  "LocationInput": {
+    "placeHolder": "Location",
+    "desc": "choose location"
+  },
+  "stayDateInput": {
+    "Add dates": "Add dates",
+    "Check in - Check out": "Check in - Check out"
+  },
+  "GuestsInput": {
+    "guests": "guests",
+    "adultsDesc": "Ages 13+",
+    "adults": "adults",
+    "children": "children",
+    "childrenDesc": "Ages 3–13",
+    "infants": "infants",
+    "infantsDesc": "Ages 0–2"
+  },
+  "carListing": {
+    "locationPlaceholder": "City or Airport",
+    "locationDesc": " Pick up location ?",
+    "locationDescDropOff": " Drop off location ?"
+  },
+  "RentalCarSearchForm": {
+    "starRatingDefault": "Star Rating",
+    "passengersAmountDefault": "Passengers Amount"
+  },
+  "rentalCarCalendar": {
+    "title": "add dates",
+    "pickupDropoff": "Pickup Date"
+  }
+}
