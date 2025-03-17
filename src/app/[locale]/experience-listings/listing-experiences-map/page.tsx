@@ -1,5 +1,4 @@
 import React, { FC } from "react";
-import SectionGridHasMap from "../SectionGridHasMap";
 
 export interface ListingExperiencesMapPageProps {}
 
